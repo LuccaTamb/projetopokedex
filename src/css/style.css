@@ -82,20 +82,60 @@ main .cartao-pokemon .tipo{
 }
 
 .grama {
-	background-color: #7ac74c;
+	background-color: #77CC55;
 }
 .veneno {
-	background-color: #df67ddfb;
+	background-color: #AA5599;
 }
 .fogo {
-	background-color: #ee8130;
+	background-color: #FF4422;
 }
 .agua {
-	background-color: #6390f0;
+	background-color: #3399FF;
 }
 .inseto {
-	background-color: #a6b91a;
+	background-color: #AABB22;
 }
+.eletrico{
+	background-color: #FFCC33;
+}
+.terra{
+	background-color: #DDBB55;
+}
+.voador{
+	background-color: #D4DDFF;
+}
+.gelo{
+	background-color: #66CCFF;
+}
+.aco{
+	background-color: #AAAABB;
+}
+.normal{
+	background-color: #AAAA99;
+}
+.lutador{
+	background-color: #BB5544;
+}
+.fantasma{
+	background-color: #6666BB;
+}
+.sombrio{
+	background-color: #775544;
+}
+.dragao{
+	background-color: #7766EE;
+}
+.fada{
+	background-color: #EE99EE;
+}
+.psico{
+	background-color: #FF5599;
+}
+.pedra{
+	background-color: #BBAA66;
+}
+
 
 
 main .descricao {
