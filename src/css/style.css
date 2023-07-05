@@ -81,60 +81,24 @@ main .cartao-pokemon .tipo{
 	border-radius: 10px;
 }
 
-.grama {
-	background-color: #77CC55;
-}
-.veneno {
-	background-color: #AA5599;
-}
-.fogo {
-	background-color: #FF4422;
-}
-.agua {
-	background-color: #3399FF;
-}
-.inseto {
-	background-color: #AABB22;
-}
-.eletrico{
-	background-color: #FFCC33;
-}
-.terra{
-	background-color: #DDBB55;
-}
-.voador{
-	background-color: #D4DDFF;
-}
-.gelo{
-	background-color: #66CCFF;
-}
-.aco{
-	background-color: #AAAABB;
-}
-.normal{
-	background-color: #AAAA99;
-}
-.lutador{
-	background-color: #BB5544;
-}
-.fantasma{
-	background-color: #6666BB;
-}
-.sombrio{
-	background-color: #775544;
-}
-.dragao{
-	background-color: #7766EE;
-}
-.fada{
-	background-color: #EE99EE;
-}
-.psico{
-	background-color: #FF5599;
-}
-.pedra{
-	background-color: #BBAA66;
-}
+.grass	{background-color: #77CC55;}
+.poison {background-color: #AA5599;}
+.fire   {background-color: #FF4422;}
+.water  {background-color: #3399FF;}
+.bug    {background-color: #AABB22;}
+.eletric{background-color: #FFCC33;}
+.ground {background-color: #DDBB55;}
+.flying {background-color: #D4DDFF;}
+.ice    {background-color: #66CCFF;}
+.stell  {background-color: #AAAABB;}
+.normal {background-color: #AAAA99;}
+.fight  {background-color: #BB5544;}
+.ghost  {background-color: #6666BB;}
+.dark   {background-color: #775544;}
+.dragon {background-color: #7766EE;}
+.fary   {background-color: #EE99EE;}
+.psychic{background-color: #FF5599;}
+.stone  {background-color: #BBAA66;}
 
 
 
